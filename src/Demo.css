@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+.avatarstyle img
+{
+    width: 200px;
+    height: 200px;
+}
+.avatarstyle
+{
+    background-color: chartreuse;
+    border-radius: 20px;
+}
+ .mainstyle
+{
+    width: 85.5%;
+    height: auto;
+    background-color: rgb(53, 58, 87);
+    margin:0 auto;
+}
+.work
+{
+    text-align: center;
+    color: darkblue;
+    font-family: cursive;
+    font-size: 20px;
+}
